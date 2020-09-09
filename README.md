@@ -1,2 +1,2 @@
 # API-GET-POST-request-website-js
-API MASTER website is to test GET/POST Endpoints.
+API MASTER website is to test GET/POST Endpoints in JSON
